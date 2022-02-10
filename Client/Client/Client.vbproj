@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1DF4DB4E-7A3D-42FF-9C12-A3A20A7CA1D6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>HARMONY.My.MyApplication</StartupObject>
+    <RootNamespace>HARMONY</RootNamespace>
+    <AssemblyName>Harmony</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Harmony.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Harmony.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ssMessages.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.Designer.vb">
+      <DependentUpon>About.vb</DependentUpon>
+    </Compile>
+    <Compile Include="About.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dedicate.Designer.vb">
+      <DependentUpon>Dedicate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dedicate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Errordiag.Designer.vb">
+      <DependentUpon>Errordiag.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Errordiag.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HexideArrays.vb" />
+    <Compile Include="HexideDelegates.vb" />
+    <Compile Include="HexideSockets.vb" />
+    <Compile Include="HexideStrings.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Resetyesno.Designer.vb">
+      <DependentUpon>Resetyesno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resetyesno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SettingsPanel.Designer.vb">
+      <DependentUpon>SettingsPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SettingsPanel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SettingsPanelGeneral.Designer.vb">
+      <DependentUpon>SettingsPanelGeneral.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SettingsPanelGeneral.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SettingsPanelPersonalise.Designer.vb">
+      <DependentUpon>SettingsPanelPersonalise.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SettingsPanelPersonalise.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SettingsPanelUpdates.Designer.vb">
+      <DependentUpon>SettingsPanelUpdates.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SettingsPanelUpdates.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdaterPrompt.Designer.vb">
+      <DependentUpon>UpdaterPrompt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UpdaterPrompt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Variables.vb" />
+    <Compile Include="WhatsNew.Designer.vb">
+      <DependentUpon>WhatsNew.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WhatsNew.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dedicate.resx">
+      <DependentUpon>Dedicate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Errordiag.resx">
+      <DependentUpon>Errordiag.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resetyesno.resx">
+      <DependentUpon>Resetyesno.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SettingsPanel.resx">
+      <DependentUpon>SettingsPanel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SettingsPanelGeneral.resx">
+      <DependentUpon>SettingsPanelGeneral.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WhatsNew.resx">
+      <DependentUpon>WhatsNew.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Windows Vista Beta IRInter.wav" />
+    <None Include="Resources\Windows Vista Beta Startup.wav" />
+    <None Include="Resources\ssMessages.ico" />
+    <None Include="Resources\ssSecGood.ico" />
+    <None Include="Resources\ssSketchPad.ico" />
+    <None Include="Resources\ssQuestion.ico" />
+    <None Include="Resources\ssCritical.ico" />
+    <None Include="Resources\ssNavigateBack.ico" />
+    <None Include="Resources\ssInternet.ico" />
+    <None Include="Resources\ssScammer.ico" />
+    <None Include="Resources\Exit.ico" />
+    <None Include="Resources\ssSet.ico" />
+    <None Include="Resources\ssDelete.ico" />
+    <None Include="Resources\ssSettings.ico" />
+    <None Include="Resources\ssInfo.ico" />
+    <None Include="Resources\Purple Aurora 2.jpg" />
+    <Content Include="ssMessages.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,15 @@
+F:\Dropbox and Copy\Copy\Tim\Desktop\iTCP\Sources\Client\Client\bin\Release\Client.exe
+F:\Dropbox and Copy\Copy\Tim\Desktop\iTCP\Sources\Client\Client\bin\Release\Client.pdb
+F:\Dropbox and Copy\Copy\Tim\Desktop\iTCP\Sources\Client\Client\bin\Release\Client.xml
+F:\Dropbox and Copy\Copy\Tim\Desktop\iTCP\Sources\Client\Client\obj\Release\WindowsApplication1.Form1.resources
+F:\Dropbox and Copy\Copy\Tim\Desktop\iTCP\Sources\Client\Client\obj\Release\WindowsApplication1.Resources.resources
+F:\Dropbox and Copy\Copy\Tim\Desktop\iTCP\Sources\Client\Client\obj\Release\WindowsApplication1.Private1.resources
+F:\Dropbox and Copy\Copy\Tim\Desktop\iTCP\Sources\Client\Client\obj\Release\WindowsApplication1.Private2.resources
+F:\Dropbox and Copy\Copy\Tim\Desktop\iTCP\Sources\Client\Client\obj\Release\Client.vbproj.GenerateResource.Cache
+F:\Dropbox and Copy\Copy\Tim\Desktop\iTCP\Sources\Client\Client\obj\Release\Client.exe
+F:\Dropbox and Copy\Copy\Tim\Desktop\iTCP\Sources\Client\Client\obj\Release\Client.xml
+F:\Dropbox and Copy\Copy\Tim\Desktop\iTCP\Sources\Client\Client\obj\Release\Client.pdb
+F:\Dropbox and Copy\Copy\Tim\Desktop\iTCP\Sources\Client\Client\obj\Release\Client.vbprojResolveAssemblyReference.cache
+C:\Users\Flyken\Dropbox\WinLogic Chat Server\Client\Client\obj\Release\Client.exe
+C:\Users\Flyken\Dropbox\WinLogic Chat Server\Client\Client\obj\Release\Client.xml
+C:\Users\Flyken\Dropbox\WinLogic Chat Server\Client\Client\obj\Release\Client.pdb

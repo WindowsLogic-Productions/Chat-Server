@@ -1,0 +1,45 @@
+C:\Documents and Settings\Mateja\Desktop\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).exe
+C:\Documents and Settings\Mateja\Desktop\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).pdb
+C:\Documents and Settings\Mateja\Desktop\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).xml
+C:\Documents and Settings\Mateja\Desktop\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mateja\Desktop\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmCommunicator.resources
+C:\Documents and Settings\Mateja\Desktop\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Resources.resources
+C:\Documents and Settings\Mateja\Desktop\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Private1.resources
+C:\Documents and Settings\Mateja\Desktop\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Private2.resources
+C:\Documents and Settings\Mateja\Desktop\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets Example.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Mateja\Desktop\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).exe
+C:\Documents and Settings\Mateja\Desktop\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).xml
+C:\Documents and Settings\Mateja\Desktop\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).pdb
+C:\Users\Dustin\Desktop\vbchat\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).exe
+C:\Users\Dustin\Desktop\vbchat\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).xml
+C:\Users\Dustin\Desktop\vbchat\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).pdb
+C:\Users\Dustin\Desktop\vbchat\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).exe
+C:\Users\Dustin\Desktop\vbchat\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).pdb
+C:\Users\Dustin\Desktop\vbchat\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).xml
+C:\Users\Dustin\Desktop\vbchat\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dustin\Desktop\vbchat\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmCommunicator.resources
+C:\Users\Dustin\Desktop\vbchat\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Resources.resources
+C:\Users\Dustin\Desktop\vbchat\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Private1.resources
+C:\Users\Dustin\Desktop\vbchat\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Private2.resources
+C:\Users\Dustin\Desktop\vbchat\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Dustin\Desktop\vbchat\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\GenerateResource.write.1.tlog
+F:\Dropbox and Copy\Dropbox\WinLogic Chat Server\Server\Server\obj\Debug\Sockets Example (Simple).exe
+F:\Dropbox and Copy\Dropbox\WinLogic Chat Server\Server\Server\obj\Debug\Sockets Example (Simple).xml
+F:\Dropbox and Copy\Dropbox\WinLogic Chat Server\Server\Server\obj\Debug\Sockets Example (Simple).pdb
+C:\Users\Flyken\Dropbox\WinLogic Chat Server\Server\Server\obj\Debug\Sockets Example (Simple).exe
+C:\Users\Flyken\Dropbox\WinLogic Chat Server\Server\Server\obj\Debug\Sockets Example (Simple).xml
+C:\Users\Flyken\Dropbox\WinLogic Chat Server\Server\Server\obj\Debug\Sockets Example (Simple).pdb
+C:\Users\Tim\Desktop\Chat Server\Server\Server\obj\Debug\Sockets Example (Simple).exe
+C:\Users\Tim\Desktop\Chat Server\Server\Server\obj\Debug\Sockets Example (Simple).xml
+C:\Users\Tim\Desktop\Chat Server\Server\Server\obj\Debug\Sockets Example (Simple).pdb
+C:\Users\Tim\Desktop\Chat Server\Server\Server\bin\Debug\Sockets Example (Simple).exe
+C:\Users\Tim\Desktop\Chat Server\Server\Server\bin\Debug\Sockets Example (Simple).pdb
+C:\Users\Tim\Desktop\Chat Server\Server\Server\bin\Debug\Sockets Example (Simple).xml
+C:\Users\Tim\Desktop\Chat Server\Server\Server\obj\Debug\Sockets_Example_Simple.Resources.resources
+C:\Users\Tim\Desktop\Chat Server\Server\Server\obj\Debug\Sockets_Example_Simple.Private1.resources
+C:\Users\Tim\Desktop\Chat Server\Server\Server\obj\Debug\Sockets_Example_Simple.Private2.resources
+C:\Users\Tim\Desktop\Chat Server\Server\Server\obj\Debug\Sockets Example.vbproj.GenerateResource.Cache
+C:\Users\Tim\Desktop\Chat Server\Server\Server\obj\Debug\Sockets_Example_Simple.Main.resources
+\\Windowsserver\storage\Old WindowsLogic Productions Stuff\Projects\Chat Server\Server\Server\obj\Debug\Sockets Example (Simple).exe
+\\Windowsserver\storage\Old WindowsLogic Productions Stuff\Projects\Chat Server\Server\Server\obj\Debug\Sockets Example (Simple).xml
+\\Windowsserver\storage\Old WindowsLogic Productions Stuff\Projects\Chat Server\Server\Server\obj\Debug\Sockets Example (Simple).pdb

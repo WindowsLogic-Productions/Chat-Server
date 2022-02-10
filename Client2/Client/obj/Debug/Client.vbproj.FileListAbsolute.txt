@@ -1,0 +1,50 @@
+C:\Documents and Settings\Mateja\Desktop\folderi\kodovi\Client\Client\bin\Debug\Client.exe
+C:\Documents and Settings\Mateja\Desktop\folderi\kodovi\Client\Client\bin\Debug\Client.pdb
+C:\Documents and Settings\Mateja\Desktop\folderi\kodovi\Client\Client\bin\Debug\Client.xml
+C:\Documents and Settings\Mateja\Desktop\folderi\kodovi\Client\Client\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mateja\Desktop\folderi\kodovi\Client\Client\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Mateja\Desktop\folderi\kodovi\Client\Client\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Mateja\Desktop\folderi\kodovi\Client\Client\obj\Debug\Client.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Mateja\Desktop\folderi\kodovi\Client\Client\obj\Debug\Client.exe
+C:\Documents and Settings\Mateja\Desktop\folderi\kodovi\Client\Client\obj\Debug\Client.xml
+C:\Documents and Settings\Mateja\Desktop\folderi\kodovi\Client\Client\obj\Debug\Client.pdb
+C:\Documents and Settings\Mateja\Desktop\folderi\kodovi\Client\Client\obj\Debug\WindowsApplication1.Private1.resources
+C:\Documents and Settings\Mateja\Desktop\folderi\kodovi\Client\Client\obj\Debug\WindowsApplication1.Private2.resources
+C:\Users\Dustin\Desktop\vbchat\Client\Client\obj\Debug\Client.exe
+C:\Users\Dustin\Desktop\vbchat\Client\Client\obj\Debug\Client.xml
+C:\Users\Dustin\Desktop\vbchat\Client\Client\obj\Debug\Client.pdb
+C:\Users\Dustin\Desktop\vbchat\Client\Client\bin\Debug\Client.exe
+C:\Users\Dustin\Desktop\vbchat\Client\Client\bin\Debug\Client.pdb
+C:\Users\Dustin\Desktop\vbchat\Client\Client\bin\Debug\Client.xml
+C:\Users\Dustin\Desktop\vbchat\Client\Client\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dustin\Desktop\vbchat\Client\Client\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Dustin\Desktop\vbchat\Client\Client\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Dustin\Desktop\vbchat\Client\Client\obj\Debug\WindowsApplication1.Private1.resources
+C:\Users\Dustin\Desktop\vbchat\Client\Client\obj\Debug\WindowsApplication1.Private2.resources
+C:\Users\Dustin\Desktop\vbchat\Client\Client\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Dustin\Desktop\vbchat\Client\Client\obj\Debug\GenerateResource.write.1.tlog
+F:\Dropbox and Copy\Copy\Tim\Desktop\iTCP\Sources\Client\Client\obj\Debug\Client.exe
+F:\Dropbox and Copy\Copy\Tim\Desktop\iTCP\Sources\Client\Client\obj\Debug\Client.xml
+F:\Dropbox and Copy\Copy\Tim\Desktop\iTCP\Sources\Client\Client\obj\Debug\Client.pdb
+F:\Dropbox and Copy\Copy\Tim\Desktop\iTCP\Sources\Client\Client\bin\Debug\Client.exe
+F:\Dropbox and Copy\Copy\Tim\Desktop\iTCP\Sources\Client\Client\obj\Debug\Client.vbprojResolveAssemblyReference.cache
+F:\Dropbox and Copy\Copy\Tim\Desktop\iTCP\Sources\Client\Client\obj\Debug\WindowsApplication1.Form1.resources
+F:\Dropbox and Copy\Copy\Tim\Desktop\iTCP\Sources\Client\Client\obj\Debug\WindowsApplication1.Resources.resources
+F:\Dropbox and Copy\Copy\Tim\Desktop\iTCP\Sources\Client\Client\obj\Debug\WindowsApplication1.Private1.resources
+F:\Dropbox and Copy\Copy\Tim\Desktop\iTCP\Sources\Client\Client\obj\Debug\WindowsApplication1.Private2.resources
+F:\Dropbox and Copy\Copy\Tim\Desktop\iTCP\Sources\Client\Client\obj\Debug\Client.vbproj.GenerateResource.Cache
+F:\Dropbox and Copy\Dropbox\WinLogic Chat Server\Client\Client\obj\Debug\Client.xml
+F:\Dropbox and Copy\Dropbox\WinLogic Chat Server\Client\Client\obj\Debug\Client.pdb
+J:\Projects\Chat Server\Client\Client\obj\Debug\Client.xml
+J:\Projects\Chat Server\Client\Client\obj\Debug\Client.pdb
+C:\Users\logiv\Desktop\Chat Server\Client\Client\obj\Debug\Client.vbprojResolveAssemblyReference.cache
+C:\Users\logiv\Desktop\Chat Server\Client\Client\obj\Debug\BT360_CHAT_CLIENT.Main.resources
+C:\Users\logiv\Desktop\Chat Server\Client\Client\obj\Debug\BT360_CHAT_CLIENT.Resources.resources
+C:\Users\logiv\Desktop\Chat Server\Client\Client\obj\Debug\Client.vbproj.GenerateResource.Cache
+C:\Users\logiv\Desktop\Chat Server\Client\Client\bin\Debug\BT360 - Chat Client.exe
+C:\Users\logiv\Desktop\Chat Server\Client\Client\bin\Debug\BT360 - Chat Client.pdb
+C:\Users\logiv\Desktop\Chat Server\Client\Client\bin\Debug\BT360 - Chat Client.xml
+C:\Users\logiv\Desktop\Chat Server\Client\Client\obj\Debug\BT360 - Chat Client.exe
+C:\Users\logiv\Desktop\Chat Server\Client\Client\obj\Debug\BT360 - Chat Client.xml
+C:\Users\logiv\Desktop\Chat Server\Client\Client\obj\Debug\BT360 - Chat Client.pdb
+C:\Users\logiv\Desktop\Chat Server\Client\Client\obj\Debug\BT360_CHAT_CLIENT.About.resources

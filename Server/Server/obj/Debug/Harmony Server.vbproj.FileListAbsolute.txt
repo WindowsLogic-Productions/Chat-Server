@@ -1,0 +1,15 @@
+C:\Users\logiv\Desktop\Chat Server (harmony)\Server\Server\bin\Debug\Harmony Server.exe.config
+J:\Projects\Chat Server\Server\Server\obj\Debug\Harmony Server.vbprojResolveAssemblyReference.cache
+J:\Projects\Chat Server\Server\Server\obj\Debug\HARMONY_SERVER.About.resources
+J:\Projects\Chat Server\Server\Server\obj\Debug\HARMONY_SERVER.Errordiag.resources
+J:\Projects\Chat Server\Server\Server\obj\Debug\HARMONY_SERVER.Main.resources
+J:\Projects\Chat Server\Server\Server\obj\Debug\HARMONY_SERVER.Resources.resources
+J:\Projects\Chat Server\Server\Server\obj\Debug\HARMONY_SERVER.UpdatePrompt.resources
+J:\Projects\Chat Server\Server\Server\obj\Debug\Harmony Server.vbproj.GenerateResource.Cache
+J:\Projects\Chat Server\Server\Server\bin\Debug\Harmony Server.exe.config
+J:\Projects\Chat Server\Server\Server\bin\Debug\Harmony Server.exe
+J:\Projects\Chat Server\Server\Server\bin\Debug\Harmony Server.pdb
+J:\Projects\Chat Server\Server\Server\bin\Debug\Harmony Server.xml
+J:\Projects\Chat Server\Server\Server\obj\Debug\Harmony Server.exe
+J:\Projects\Chat Server\Server\Server\obj\Debug\Harmony Server.xml
+J:\Projects\Chat Server\Server\Server\obj\Debug\Harmony Server.pdb

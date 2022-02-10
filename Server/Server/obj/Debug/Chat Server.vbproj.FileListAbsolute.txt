@@ -1,0 +1,23 @@
+\\Windowsserver\storage\Old WindowsLogic Productions Stuff\Projects\Chat Server\Server\Server\bin\Debug\Sockets Example (Simple).exe
+\\Windowsserver\storage\Old WindowsLogic Productions Stuff\Projects\Chat Server\Server\Server\bin\Debug\Sockets Example (Simple).pdb
+\\Windowsserver\storage\Old WindowsLogic Productions Stuff\Projects\Chat Server\Server\Server\bin\Debug\Sockets Example (Simple).xml
+\\Windowsserver\storage\Old WindowsLogic Productions Stuff\Projects\Chat Server\Server\Server\obj\Debug\Sockets_Example_Simple.Main.resources
+\\Windowsserver\storage\Old WindowsLogic Productions Stuff\Projects\Chat Server\Server\Server\obj\Debug\Sockets_Example_Simple.Resources.resources
+\\Windowsserver\storage\Old WindowsLogic Productions Stuff\Projects\Chat Server\Server\Server\obj\Debug\Chat Server.vbproj.GenerateResource.Cache
+\\Windowsserver\storage\Old WindowsLogic Productions Stuff\Projects\Chat Server\Server\Server\obj\Debug\Sockets Example (Simple).exe
+\\Windowsserver\storage\Old WindowsLogic Productions Stuff\Projects\Chat Server\Server\Server\obj\Debug\Sockets Example (Simple).xml
+\\Windowsserver\storage\Old WindowsLogic Productions Stuff\Projects\Chat Server\Server\Server\obj\Debug\Sockets Example (Simple).pdb
+C:\Users\logiv\Desktop\Chat Server\Server\Server\obj\Debug\BT360_CHAT_SERVER.About.resources
+C:\Users\logiv\Desktop\Chat Server\Server\Server\obj\Debug\BT360_CHAT_SERVER.Main.resources
+C:\Users\logiv\Desktop\Chat Server\Server\Server\obj\Debug\BT360_CHAT_SERVER.Resources.resources
+C:\Users\logiv\Desktop\Chat Server\Server\Server\obj\Debug\Chat Server.vbproj.GenerateResource.Cache
+C:\Users\logiv\Desktop\Chat Server\Server\Server\bin\Debug\BT360 - Chat Server.exe
+C:\Users\logiv\Desktop\Chat Server\Server\Server\bin\Debug\BT360 - Chat Server.pdb
+C:\Users\logiv\Desktop\Chat Server\Server\Server\bin\Debug\BT360 - Chat Server.xml
+C:\Users\logiv\Desktop\Chat Server\Server\Server\obj\Debug\BT360 - Chat Server.exe
+C:\Users\logiv\Desktop\Chat Server\Server\Server\obj\Debug\BT360 - Chat Server.xml
+C:\Users\logiv\Desktop\Chat Server\Server\Server\obj\Debug\BT360 - Chat Server.pdb
+C:\Users\logiv\Desktop\Chat Server (harmony)\Server\Server\bin\Debug\BT360 - Chat Server.exe.config
+C:\Users\logiv\Desktop\Chat Server (harmony)\Server\Server\obj\Debug\BT360 - Chat Server.exe
+C:\Users\logiv\Desktop\Chat Server (harmony)\Server\Server\obj\Debug\BT360 - Chat Server.xml
+C:\Users\logiv\Desktop\Chat Server (harmony)\Server\Server\obj\Debug\BT360 - Chat Server.pdb

@@ -1,0 +1,12 @@
+F:\Dropbox and Copy\Dropbox\WinLogic Chat Server\Server\Server\bin\Release\Sockets Example (Simple).exe
+F:\Dropbox and Copy\Dropbox\WinLogic Chat Server\Server\Server\bin\Release\Sockets Example (Simple).pdb
+F:\Dropbox and Copy\Dropbox\WinLogic Chat Server\Server\Server\bin\Release\Sockets Example (Simple).xml
+F:\Dropbox and Copy\Dropbox\WinLogic Chat Server\Server\Server\obj\Release\Sockets Example.vbprojResolveAssemblyReference.cache
+F:\Dropbox and Copy\Dropbox\WinLogic Chat Server\Server\Server\obj\Release\Sockets_Example_Simple.frmCommunicator.resources
+F:\Dropbox and Copy\Dropbox\WinLogic Chat Server\Server\Server\obj\Release\Sockets_Example_Simple.Resources.resources
+F:\Dropbox and Copy\Dropbox\WinLogic Chat Server\Server\Server\obj\Release\Sockets_Example_Simple.Private1.resources
+F:\Dropbox and Copy\Dropbox\WinLogic Chat Server\Server\Server\obj\Release\Sockets_Example_Simple.Private2.resources
+F:\Dropbox and Copy\Dropbox\WinLogic Chat Server\Server\Server\obj\Release\Sockets Example.vbproj.GenerateResource.Cache
+F:\Dropbox and Copy\Dropbox\WinLogic Chat Server\Server\Server\obj\Release\Sockets Example (Simple).exe
+F:\Dropbox and Copy\Dropbox\WinLogic Chat Server\Server\Server\obj\Release\Sockets Example (Simple).xml
+F:\Dropbox and Copy\Dropbox\WinLogic Chat Server\Server\Server\obj\Release\Sockets Example (Simple).pdb

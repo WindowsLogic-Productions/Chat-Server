@@ -1,0 +1,12 @@
+C:\Documents and Settings\Mateja\Desktop\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).exe
+C:\Documents and Settings\Mateja\Desktop\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).pdb
+C:\Documents and Settings\Mateja\Desktop\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).xml
+C:\Documents and Settings\Mateja\Desktop\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mateja\Desktop\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmCommunicator.resources
+C:\Documents and Settings\Mateja\Desktop\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Resources.resources
+C:\Documents and Settings\Mateja\Desktop\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).vbproj.GenerateResource.Cache
+C:\Documents and Settings\Mateja\Desktop\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).exe
+C:\Documents and Settings\Mateja\Desktop\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).xml
+C:\Documents and Settings\Mateja\Desktop\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).pdb
+C:\Documents and Settings\Mateja\Desktop\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Private1.resources
+C:\Documents and Settings\Mateja\Desktop\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Private2.resources
